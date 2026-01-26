@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Icon.ico" alt="yeyTaken Hytale Icon" width="128">
+  <img src="../../../Icon.ico" alt="yeyTaken Hytale Icon" width="128">
 </p>
 
 # yeyTaken/hytale/language/v/2026.01.24-6e2d4fc36
