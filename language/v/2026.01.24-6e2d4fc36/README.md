@@ -29,7 +29,7 @@ cp -r pt-BR fallback.lang ~/.var/app/com.hypixel.HytaleLauncher/data/Hytale/inst
 2. Navegue até a pasta de instalação do Hytale, normalmente em algo como:
 
 ```
-C:\Users\<seu-usuario>\AppData\Local\Hytale\install\release\package\game\latest\Client\Data\Shared\Language
+%AppData%\Hytale\install\release\package\game\latest\Client\Data\Shared\Language\
 ```
 
 3. Cole os arquivos `pt-BR` e `fallback.lang` dentro dessa pasta.

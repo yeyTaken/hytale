@@ -8,13 +8,6 @@
 ############################################################
 
 # === assetEditor ===
-
-
-
-
-
-
-
 assetEditor.mainMenu.connection.connecting = Conectando ao servidor...
 assetEditor.mainMenu.connection.authenticating = Autenticando...
 assetEditor.mainMenu.title = Abrir Editor
