@@ -14,11 +14,13 @@ Atualmente, o repositório contém as seguintes configurações:
 
 ### Linguagens
 - [Lista de Linguagens](/languages/README.md)
-  - **pt-BR**: 
-    - Versão: `2026.01.27-734d39026` (latest)
+  - **pt-BR**:
+    - Versão: `2026.01.28-87d03be09` (latest)
+      - Documentação: [/language/v/2026.01.28-87d03be09/README.md](/language/v/2026.01.28-87d03be09/README.md)
+    - Versão: `2026.01.27-734d39026`
       - Documentação: [/language/v/2026.01.27-734d39026/README.md](/language/v/2026.01.27-734d39026/README.md)
     - Versão: `2026.01.24-6e2d4fc36`
-    - Documentação: [/language/v/2026.01.24-6e2d4fc36/README.md](/language/v/2026.01.24-6e2d4fc36/README.md)
+      - Documentação: [/language/v/2026.01.24-6e2d4fc36/README.md](/language/v/2026.01.24-6e2d4fc36/README.md)
 
 ## Versionamento
 
